@@ -11,7 +11,8 @@ Solicitei ao Llama 3.2 um prompt sobre o tema e com ele em mãos, no Kling AI 1.
 
 ## 🚀 Resultado
 O resultado do projeto é um vídeo de 5s totalmente criado em IA.
-[Assista ao vídeo](link)
+
+[Assista ao vídeo]([link](https://github.com/romuloIA/lab-natty-or-not/blob/main/Estremamente%20Est%C3%A9tico.mp4))
 
 ## 💭 Reflexão
 Criar algo 'natty' com IA é super gratificante, vendo os resultados de todo aprendizado.
